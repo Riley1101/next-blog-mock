@@ -1,8 +1,10 @@
-# Config
+# [Mockend.json](https://mockend.com/) sample for dummy api using Github 
+
+## Config
 
 - [.mockend.json](.mockend.json)
 
-# REST examples
+## REST examples
 
 - https://mockend.com/Riley1101/next-blog-mock/posts
 - https://mockend.com/Riley1101/next-blog-mock/posts?limit=20
